@@ -1,0 +1,24 @@
+{
+  "ID": "com.example.BetterVehicles",
+  "AssemblyName": "BetterVehicles.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Dtony"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Better Vehicles"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Ground Vehicle Improvements"
+    }
+  ],
+  "Dependencies": []
+}
